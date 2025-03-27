@@ -1,7 +1,3 @@
-Sure! Here’s a `README.md` file explaining your Makefile and how to use it.
-
----
-
 # Neural Network Profiler
 
 This project contains a simple neural network (`nn.c`) and a Makefile for compiling, running, and profiling the program using `gprof`.
